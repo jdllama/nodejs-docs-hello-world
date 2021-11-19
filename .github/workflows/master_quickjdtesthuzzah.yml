@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'QuickJDTestHuzzah'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26EBE16DB946478892A66FCDB55D3C45 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_59E5FC59903642BA9458EF8452EEA6FF }}
           package: .
